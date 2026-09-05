@@ -38,6 +38,6 @@ Exact-arithmetic matrix solver implemented in **C++ and C#**.
 
 Certifications in **Deep Learning for NLP, Machine Learning & Data Science, and Generative AI**
 
-## Connect
+## Professional Links
 
-[GitHub](https://github.com/HimanshuBansal112) · [LinkedIn](https://linkedin.com/in/himanshubansalprogrammer)
+[LinkedIn](https://linkedin.com/in/himanshubansalprogrammer)
