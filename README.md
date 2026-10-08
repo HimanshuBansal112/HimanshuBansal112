@@ -1,24 +1,22 @@
 # Hi there 👋 I am Himanshu Bansal
 
-### AI & Machine Learning Engineer
+### AI/ML Engineering Student
 
-I build practical AI systems focused on **LLMs, multi-agent systems, LLM evaluation, deep learning, and computer vision**.
-
-Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)**.
+I build practical AI systems focused on **LLMs, multi-agent systems, fine-tuning, LLM evaluation, deep learning, and computer vision**.
 
 ## Featured Projects
 
 **[Multi-Agent Study Orchestrator](https://github.com/HimanshuBansal112/Multi-Agent-Study-Orchestrator)**
 
-Autonomous learning platform built with **LangGraph, FastAPI, FastMCP, and Gemma**.
+Multi-agent study assistant (supervisor + 3 sub-agents) built with **LangGraph, FastAPI, FastMCP, and Gemma**, with custom MCP tools and a custom RAG pipeline.
 
 **[Automated AI Response Judge](https://github.com/HimanshuBansal112/Automated-AI-Response-Judge)**
 
-LLM evaluation system using **DeBERTa-v3-large** for preference ranking and **Qwen** for factual verification.
+Fine-tuned **DeBERTa-v3-large** as a preference judge (67.21% on Anthropic HH-RLHF), with a locally served **Qwen** model as a fallback factual check.
 
-**[Real-Time Edge Face Recognition](https://github.com/HimanshuBansal112/Face-Recognition)**
+**[Real-Time Face Recognition](https://github.com/HimanshuBansal112/Face-Recognition)**
 
-Offline face recognition system using **OpenCV, Django, and NumPy**.
+Offline multi-face recognition system using **YuNet/SFace, OpenCV, Django, and NumPy**.
 
 **[Linear Equation System Solver](https://github.com/HimanshuBansal112/Linear_Equation_System_Solver)**
 
@@ -26,7 +24,7 @@ Exact-arithmetic matrix solver implemented in **C++ and C#**.
 
 ## Tech Stack
 
-**Python · C++ · C#/.NET · PyTorch · Hugging Face · Scikit-learn · FastAPI · Django · LangChain · LangGraph · FastMCP · NumPy · Pandas · Matplotlib · Git · GitHub**
+**Python · SQL · C++ · C#/.NET · PyTorch · Hugging Face · Scikit-learn · FastAPI · Django · LangChain · LangGraph · MCP (FastMCP) · RAG · NumPy · Pandas · Matplotlib · Git · GitHub**
 
 ## Background
 
@@ -34,9 +32,9 @@ Exact-arithmetic matrix solver implemented in **C++ and C#**.
 
 **1st place** in three college coding competitions (2026)
 
-**50+** LeetCode problems
+**75+** LeetCode problems
 
-Certifications in **Deep Learning for NLP, Machine Learning & Data Science, and Generative AI**
+Certifications in **Deep Learning for NLP, Machine Learning & Data Science, and GitHub Certified: Agentic AI Developer**
 
 ## Connect With Me
 
