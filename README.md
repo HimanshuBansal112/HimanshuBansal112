@@ -12,7 +12,7 @@ Multi-agent study assistant (supervisor + 3 sub-agents) built with **LangGraph, 
 
 **[Automated AI Response Judge](https://github.com/HimanshuBansal112/Automated-AI-Response-Judge)**
 
-Fine-tuned **DeBERTa-v3-large** as a preference judge (67.21% on Anthropic HH-RLHF), with a locally served **Qwen** model as a fallback factual check.
+Fine-tuned **DeBERTa-v3-large** to predict human-preferred style (67.21% on Anthropic HH-RLHF), paired with a locally served **Qwen** factual judge. Both tracks return A / B / tie percentage shares.
 
 **[Real-Time Face Recognition](https://github.com/HimanshuBansal112/Face-Recognition)**
 
