@@ -34,7 +34,7 @@ Exact-arithmetic matrix solver implemented in **C++ and C#**.
 
 **75+** LeetCode problems
 
-Certifications in **Deep Learning for NLP, Machine Learning & Data Science, and GitHub Certified: Agentic AI Developer**
+Certifications in **[Deep Learning for NLP](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS22S65070005804299571), [Machine Learning & Data Science](https://www.geeksforgeeks.org/certificate/a66671829be2ba15b8897bdef8992cef), and [GitHub Certified: Agentic AI Developer](https://learn.microsoft.com/api/credentials/share/en-us/HimanshuBansal-3785/EDCCF1E9CF20D1D4)**
 
 ## Connect With Me
 
